@@ -1,0 +1,250 @@
+For Year 2009, in Delaware/DE the average salary of Male is 	48854.192660550456
+For Year 2009, in Delaware/DE the average salary of Female is 	34295.50992155053
+For Year 2010, in Delaware/DE the average salary of Male is 	49794.37323279925
+For Year 2010, in Delaware/DE the average salary of Female is 	35204.90548204159
+For Year 2011, in Delaware/DE the average salary of Male is 	50584.2
+For Year 2011, in Delaware/DE the average salary of Female is 	35480.92300765421
+For Year 2012, in Delaware/DE the average salary of Male is 	48398.59469520707
+For Year 2012, in Delaware/DE the average salary of Female is 	36997.84142988084
+For Year 2013, in Delaware/DE the average salary of Male is 	50892.46208742195
+For Year 2013, in Delaware/DE the average salary of Female is 	37834.0958709065
+For Year 2009, in District of Columbia/DC the average salary of Male is 	71530.51747311828
+For Year 2009, in District of Columbia/DC the average salary of Female is 	54369.01032179721
+For Year 2010, in District of Columbia/DC the average salary of Male is 	73016.32666236282
+For Year 2010, in District of Columbia/DC the average salary of Female is 	58117.82480893592
+For Year 2011, in District of Columbia/DC the average salary of Male is 	73574.91792929293
+For Year 2011, in District of Columbia/DC the average salary of Female is 	54532.071926999466
+For Year 2012, in District of Columbia/DC the average salary of Male is 	73802.72133095663
+For Year 2012, in District of Columbia/DC the average salary of Female is 	56240.64779531845
+For Year 2013, in District of Columbia/DC the average salary of Male is 	75135.94360086769
+For Year 2013, in District of Columbia/DC the average salary of Female is 	57913.42451341399
+For Year 2009, in Florida/FL the average salary of Male is 	47801.350652877416
+For Year 2009, in Florida/FL the average salary of Female is 	31402.212728206567
+For Year 2010, in Florida/FL the average salary of Male is 	46555.748840461485
+For Year 2010, in Florida/FL the average salary of Female is 	31556.332819576506
+For Year 2011, in Florida/FL the average salary of Male is 	47378.942280246134
+For Year 2011, in Florida/FL the average salary of Female is 	31835.172035575477
+For Year 2012, in Florida/FL the average salary of Male is 	48413.78834675509
+For Year 2012, in Florida/FL the average salary of Female is 	32416.07263748382
+For Year 2013, in Florida/FL the average salary of Male is 	49870.65355694299
+For Year 2013, in Florida/FL the average salary of Female is 	33585.63971482391
+For Year 2009, in Georgia/GA the average salary of Male is 	50399.53287671233
+For Year 2009, in Georgia/GA the average salary of Female is 	32325.5727449938
+For Year 2010, in Georgia/GA the average salary of Male is 	48699.76475314704
+For Year 2010, in Georgia/GA the average salary of Female is 	32186.801626833614
+For Year 2011, in Georgia/GA the average salary of Male is 	45782.189842976375
+For Year 2011, in Georgia/GA the average salary of Female is 	30804.80933023616
+For Year 2012, in Georgia/GA the average salary of Male is 	50340.1361732787
+For Year 2012, in Georgia/GA the average salary of Female is 	32312.24475292557
+For Year 2013, in Georgia/GA the average salary of Male is 	52451.226213764894
+For Year 2013, in Georgia/GA the average salary of Female is 	34092.20167367886
+For Year 2009, in Hawaii/HI the average salary of Male is 	46909.72366148532
+For Year 2009, in Hawaii/HI the average salary of Female is 	32508.078696587767
+For Year 2010, in Hawaii/HI the average salary of Male is 	46060.753089968384
+For Year 2010, in Hawaii/HI the average salary of Female is 	33426.5639589169
+For Year 2011, in Hawaii/HI the average salary of Male is 	46038.516146993315
+For Year 2011, in Hawaii/HI the average salary of Female is 	32549.516079632467
+For Year 2012, in Hawaii/HI the average salary of Male is 	45652.568380743985
+For Year 2012, in Hawaii/HI the average salary of Female is 	34745.51659361302
+For Year 2013, in Hawaii/HI the average salary of Male is 	49241.93997856377
+For Year 2013, in Hawaii/HI the average salary of Female is 	35492.60504201681
+For Year 2009, in Alabama/AL the average salary of Male is 	44702.87387947102
+For Year 2009, in Alabama/AL the average salary of Female is 	27675.65939675174
+For Year 2010, in Alabama/AL the average salary of Male is 	45517.40754610991
+For Year 2010, in Alabama/AL the average salary of Female is 	27927.437667817416
+For Year 2011, in Alabama/AL the average salary of Male is 	43193.311023622045
+For Year 2011, in Alabama/AL the average salary of Female is 	27601.260738287718
+For Year 2012, in Alabama/AL the average salary of Male is 	45778.15248429469
+For Year 2012, in Alabama/AL the average salary of Female is 	27373.248451479696
+For Year 2013, in Alabama/AL the average salary of Male is 	47268.489431658054
+For Year 2013, in Alabama/AL the average salary of Female is 	29233.11868436695
+For Year 2009, in Alaska/AK the average salary of Male is 	46104.273881833244
+For Year 2009, in Alaska/AK the average salary of Female is 	31448.585591539988
+For Year 2010, in Alaska/AK the average salary of Male is 	45928.78234398783
+For Year 2010, in Alaska/AK the average salary of Female is 	33227.52235150031
+For Year 2011, in Alaska/AK the average salary of Male is 	44370.08581524483
+For Year 2011, in Alaska/AK the average salary of Female is 	29630.827160493827
+For Year 2012, in Alaska/AK the average salary of Male is 	45702.30690010299
+For Year 2012, in Alaska/AK the average salary of Female is 	32758.953114964675
+For Year 2013, in Alaska/AK the average salary of Male is 	47694.598540145984
+For Year 2013, in Alaska/AK the average salary of Female is 	32257.465069860278
+For Year 2009, in Pennsylvania/PA the average salary of Male is 	47406.86376560762
+For Year 2009, in Pennsylvania/PA the average salary of Female is 	30207.910845887953
+For Year 2010, in Pennsylvania/PA the average salary of Male is 	46990.68717818321
+For Year 2010, in Pennsylvania/PA the average salary of Female is 	30484.159757862875
+For Year 2011, in Pennsylvania/PA the average salary of Male is 	45999.11285139309
+For Year 2011, in Pennsylvania/PA the average salary of Female is 	30101.99596708622
+For Year 2012, in Pennsylvania/PA the average salary of Male is 	48222.713026867146
+For Year 2012, in Pennsylvania/PA the average salary of Female is 	31413.308483124274
+For Year 2013, in Pennsylvania/PA the average salary of Male is 	50218.703220458665
+For Year 2013, in Pennsylvania/PA the average salary of Female is 	32343.343779980813
+For Year 2009, in Rhode Island/RI the average salary of Male is 	50828.852519308566
+For Year 2009, in Rhode Island/RI the average salary of Female is 	34430.07494646681
+For Year 2010, in Rhode Island/RI the average salary of Male is 	50878.20022927016
+For Year 2010, in Rhode Island/RI the average salary of Female is 	35515.44008958567
+For Year 2011, in Rhode Island/RI the average salary of Male is 	50422.16255976462
+For Year 2011, in Rhode Island/RI the average salary of Female is 	34105.52825373678
+For Year 2012, in Rhode Island/RI the average salary of Male is 	49054.450489662675
+For Year 2012, in Rhode Island/RI the average salary of Female is 	34825.34567039106
+For Year 2013, in Rhode Island/RI the average salary of Male is 	53726.941301272986
+For Year 2013, in Rhode Island/RI the average salary of Female is 	35929.12583715192
+For Year 2009, in South Carolina/SC the average salary of Male is 	43291.62448393466
+For Year 2009, in South Carolina/SC the average salary of Female is 	28038.486456808198
+For Year 2010, in South Carolina/SC the average salary of Male is 	42677.88411699371
+For Year 2010, in South Carolina/SC the average salary of Female is 	27925.549175773293
+For Year 2011, in South Carolina/SC the average salary of Male is 	41132.163326465634
+For Year 2011, in South Carolina/SC the average salary of Female is 	27145.77617602428
+For Year 2012, in South Carolina/SC the average salary of Male is 	43315.60396773894
+For Year 2012, in South Carolina/SC the average salary of Female is 	28623.696094269693
+For Year 2013, in South Carolina/SC the average salary of Male is 	45060.5545512645
+For Year 2013, in South Carolina/SC the average salary of Female is 	29284.579656293543
+For Year 2009, in South Dakota/SD the average salary of Male is 	36963.44893111639
+For Year 2009, in South Dakota/SD the average salary of Female is 	23892.158069096073
+For Year 2010, in South Dakota/SD the average salary of Male is 	37699.01859099804
+For Year 2010, in South Dakota/SD the average salary of Female is 	24281.701821668266
+For Year 2011, in South Dakota/SD the average salary of Male is 	35085.57209302326
+For Year 2011, in South Dakota/SD the average salary of Female is 	25064.935579781963
+For Year 2012, in South Dakota/SD the average salary of Male is 	37440.525821596246
+For Year 2012, in South Dakota/SD the average salary of Female is 	24589.46583253128
+For Year 2013, in South Dakota/SD the average salary of Male is 	39080.154422087035
+For Year 2013, in South Dakota/SD the average salary of Female is 	24804.78084714549
+For Year 2009, in Tennessee/TN the average salary of Male is 	44165.16983641442
+For Year 2009, in Tennessee/TN the average salary of Female is 	28612.469968956673
+For Year 2010, in Tennessee/TN the average salary of Male is 	43970.36747029329
+For Year 2010, in Tennessee/TN the average salary of Female is 	28419.60335621663
+For Year 2011, in Tennessee/TN the average salary of Male is 	43199.56664807585
+For Year 2011, in Tennessee/TN the average salary of Female is 	28476.118131273015
+For Year 2012, in Tennessee/TN the average salary of Male is 	46182.3955412706
+For Year 2012, in Tennessee/TN the average salary of Female is 	29538.04713519616
+For Year 2013, in Tennessee/TN the average salary of Male is 	46930.84638475594
+For Year 2013, in Tennessee/TN the average salary of Female is 	30706.133388169168
+For Year 2009, in Texas/TX the average salary of Male is 	51030.51311591039
+For Year 2009, in Texas/TX the average salary of Female is 	31611.651118092774
+For Year 2010, in Texas/TX the average salary of Male is 	50168.58232502173
+For Year 2010, in Texas/TX the average salary of Female is 	31660.492086384143
+For Year 2011, in Texas/TX the average salary of Male is 	49191.07708922602
+For Year 2011, in Texas/TX the average salary of Female is 	31411.747523437203
+For Year 2012, in Texas/TX the average salary of Male is 	51912.52624208069
+For Year 2012, in Texas/TX the average salary of Female is 	32459.93388767215
+For Year 2013, in Texas/TX the average salary of Male is 	54236.633760663244
+For Year 2013, in Texas/TX the average salary of Female is 	33860.26166422732
+For Year 2009, in Utah/UT the average salary of Male is 	47062.44794520548
+For Year 2009, in Utah/UT the average salary of Female is 	24360.099818211867
+For Year 2010, in Utah/UT the average salary of Male is 	45909.76994076319
+For Year 2010, in Utah/UT the average salary of Female is 	25092.470822281168
+For Year 2011, in Utah/UT the average salary of Male is 	47446.815858543996
+For Year 2011, in Utah/UT the average salary of Female is 	25118.25424304141
+For Year 2012, in Utah/UT the average salary of Male is 	48380.76817558299
+For Year 2012, in Utah/UT the average salary of Female is 	26691.593181445664
+For Year 2013, in Utah/UT the average salary of Male is 	50611.46085128744
+For Year 2013, in Utah/UT the average salary of Female is 	26128.158890701467
+For Year 2009, in Arizona/AZ the average salary of Male is 	47315.328725759915
+For Year 2009, in Arizona/AZ the average salary of Female is 	32220.73471183458
+For Year 2010, in Arizona/AZ the average salary of Male is 	46892.348490012955
+For Year 2010, in Arizona/AZ the average salary of Female is 	32154.979194531134
+For Year 2011, in Arizona/AZ the average salary of Male is 	44910.982407726806
+For Year 2011, in Arizona/AZ the average salary of Female is 	31524.268484530676
+For Year 2012, in Arizona/AZ the average salary of Male is 	47728.82932757224
+For Year 2012, in Arizona/AZ the average salary of Female is 	32783.50059826503
+For Year 2013, in Arizona/AZ the average salary of Male is 	49115.54643799472
+For Year 2013, in Arizona/AZ the average salary of Female is 	33991.26195335277
+For Year 2009, in Vermont/VT the average salary of Male is 	41803.06322897483
+For Year 2009, in Vermont/VT the average salary of Female is 	29195.154702970296
+For Year 2010, in Vermont/VT the average salary of Male is 	39993.380116959066
+For Year 2010, in Vermont/VT the average salary of Female is 	29117.99070847851
+For Year 2011, in Vermont/VT the average salary of Male is 	41457.280753384344
+For Year 2011, in Vermont/VT the average salary of Female is 	29046.94867456289
+For Year 2012, in Vermont/VT the average salary of Male is 	43182.99474605954
+For Year 2012, in Vermont/VT the average salary of Female is 	29658.021122846025
+For Year 2013, in Vermont/VT the average salary of Male is 	42840.01764705883
+For Year 2013, in Vermont/VT the average salary of Female is 	30926.209112149532
+For Year 2009, in Virginia/VA the average salary of Male is 	57981.868219602686
+For Year 2009, in Virginia/VA the average salary of Female is 	37504.69460900474
+For Year 2010, in Virginia/VA the average salary of Male is 	58240.324609843934
+For Year 2010, in Virginia/VA the average salary of Female is 	38136.34368093229
+For Year 2011, in Virginia/VA the average salary of Male is 	56789.24791165227
+For Year 2011, in Virginia/VA the average salary of Female is 	36933.170357751274
+For Year 2012, in Virginia/VA the average salary of Male is 	60687.9990836197
+For Year 2012, in Virginia/VA the average salary of Female is 	39693.8094076315
+For Year 2013, in Virginia/VA the average salary of Male is 	62316.74203864691
+For Year 2013, in Virginia/VA the average salary of Female is 	40941.74132247431
+For Year 2009, in Washington/WA the average salary of Male is 	53026.77566799318
+For Year 2009, in Washington/WA the average salary of Female is 	33103.557944743094
+For Year 2010, in Washington/WA the average salary of Male is 	51870.74537728265
+For Year 2010, in Washington/WA the average salary of Female is 	33850.038885701535
+For Year 2011, in Washington/WA the average salary of Male is 	52530.641149962925
+For Year 2011, in Washington/WA the average salary of Female is 	33947.46309064457
+For Year 2012, in Washington/WA the average salary of Male is 	55875.09947404528
+For Year 2012, in Washington/WA the average salary of Female is 	35324.65902905247
+For Year 2013, in Washington/WA the average salary of Male is 	57161.94180790961
+For Year 2013, in Washington/WA the average salary of Female is 	36741.84488017429
+For Year 2009, in West Virginia/WV the average salary of Male is 	41557.93386434951
+For Year 2009, in West Virginia/WV the average salary of Female is 	25440.21282051282
+For Year 2010, in West Virginia/WV the average salary of Male is 	41167.57509689922
+For Year 2010, in West Virginia/WV the average salary of Female is 	25974.104734197303
+For Year 2011, in West Virginia/WV the average salary of Male is 	41043.07410124725
+For Year 2011, in West Virginia/WV the average salary of Female is 	25805.497936016513
+For Year 2012, in West Virginia/WV the average salary of Male is 	43020.57454545455
+For Year 2012, in West Virginia/WV the average salary of Female is 	27155.196390658173
+For Year 2013, in West Virginia/WV the average salary of Male is 	44068.22994525113
+For Year 2013, in West Virginia/WV the average salary of Female is 	27728.44094488189
+For Year 2009, in Wisconsin/WI the average salary of Male is 	42953.32712600869
+For Year 2009, in Wisconsin/WI the average salary of Female is 	28250.255310855584
+For Year 2010, in Wisconsin/WI the average salary of Male is 	42830.03485867224
+For Year 2010, in Wisconsin/WI the average salary of Female is 	29148.79294085949
+For Year 2011, in Wisconsin/WI the average salary of Male is 	42796.668182704176
+For Year 2011, in Wisconsin/WI the average salary of Female is 	28565.523119253743
+For Year 2012, in Wisconsin/WI the average salary of Male is 	43292.08914450036
+For Year 2012, in Wisconsin/WI the average salary of Female is 	29793.00936367986
+For Year 2013, in Wisconsin/WI the average salary of Male is 	46229.290505310586
+For Year 2013, in Wisconsin/WI the average salary of Female is 	30417.759544314096
+For Year 2009, in Wyoming/WY the average salary of Male is 	44832.573208722744
+For Year 2009, in Wyoming/WY the average salary of Female is 	26705.33429187635
+For Year 2010, in Wyoming/WY the average salary of Male is 	46535.87390761548
+For Year 2010, in Wyoming/WY the average salary of Female is 	27445.21116678597
+For Year 2011, in Wyoming/WY the average salary of Male is 	46545.45959284392
+For Year 2011, in Wyoming/WY the average salary of Female is 	26876.03305785124
+For Year 2012, in Wyoming/WY the average salary of Male is 	46185.61097256858
+For Year 2012, in Wyoming/WY the average salary of Female is 	27296.69699090273
+For Year 2013, in Wyoming/WY the average salary of Male is 	50016.92355117139
+For Year 2013, in Wyoming/WY the average salary of Female is 	29123.886156008433
+For Year 2009, in Arkansas/AR the average salary of Male is 	39377.68951858623
+For Year 2009, in Arkansas/AR the average salary of Female is 	26118.96141329614
+For Year 2010, in Arkansas/AR the average salary of Male is 	39601.85524652339
+For Year 2010, in Arkansas/AR the average salary of Female is 	26283.94858044164
+For Year 2011, in Arkansas/AR the average salary of Male is 	37679.81332067711
+For Year 2011, in Arkansas/AR the average salary of Female is 	25615.763562753036
+For Year 2012, in Arkansas/AR the average salary of Male is 	40934.46103079824
+For Year 2012, in Arkansas/AR the average salary of Female is 	26585.971172325433
+For Year 2013, in Arkansas/AR the average salary of Male is 	43125.63344752414
+For Year 2013, in Arkansas/AR the average salary of Female is 	28265.058634538153
+For Year 2009, in California/CA the average salary of Male is 	55156.62954039816
+For Year 2009, in California/CA the average salary of Female is 	37945.64750179912
+For Year 2010, in California/CA the average salary of Male is 	54124.09937352989
+For Year 2010, in California/CA the average salary of Female is 	38537.144611327974
+For Year 2011, in California/CA the average salary of Male is 	53957.61436584969
+For Year 2011, in California/CA the average salary of Female is 	38138.45483699251
+For Year 2012, in California/CA the average salary of Male is 	55490.02661940506
+For Year 2012, in California/CA the average salary of Female is 	39080.04217757615
+For Year 2013, in California/CA the average salary of Male is 	58126.742662054516
+For Year 2013, in California/CA the average salary of Female is 	40410.536624083456
+For Year 2009, in Colorado/CO the average salary of Male is 	52963.23692667251
+For Year 2009, in Colorado/CO the average salary of Female is 	33971.895267835695
+For Year 2010, in Colorado/CO the average salary of Male is 	51824.50996134404
+For Year 2010, in Colorado/CO the average salary of Female is 	34277.141337261644
+For Year 2011, in Colorado/CO the average salary of Male is 	50950.01056843059
+For Year 2011, in Colorado/CO the average salary of Female is 	33580.39909516885
+For Year 2012, in Colorado/CO the average salary of Male is 	53957.08439675174
+For Year 2012, in Colorado/CO the average salary of Female is 	34852.03275266918
+For Year 2013, in Colorado/CO the average salary of Male is 	56777.412314225054
+For Year 2013, in Colorado/CO the average salary of Female is 	35755.06472111085
+For Year 2009, in Connecticut/CT the average salary of Male is 	70325.72908714146
+For Year 2009, in Connecticut/CT the average salary of Female is 	40609.50819672131
+For Year 2010, in Connecticut/CT the average salary of Male is 	68747.55923401493
+For Year 2010, in Connecticut/CT the average salary of Female is 	40977.0481530343
+For Year 2011, in Connecticut/CT the average salary of Male is 	68550.38082873526
+For Year 2011, in Connecticut/CT the average salary of Female is 	41565.731920471924
+For Year 2012, in Connecticut/CT the average salary of Male is 	71011.44936364626
+For Year 2012, in Connecticut/CT the average salary of Female is 	42215.97088441331
+For Year 2013, in Connecticut/CT the average salary of Male is 	74663.66040140172
+For Year 2013, in Connecticut/CT the average salary of Female is 	43962.483464397286
